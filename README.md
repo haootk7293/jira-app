@@ -1,6 +1,11 @@
-# Project structure 🏗
+# Frontend
 
-I've used this architecture on multiple larger projects in the past and it performed really well.
+# Installation & Running
+
+- `npm install`
+- `npm start`
+
+# Project structure
 
 There are two special root folders in `src`: `App` and `shared` (described below). All other root folders in `src` (in our case only two: `Auth` and `Project`) should follow the structure of the routes. We can call these folders modules.
 
